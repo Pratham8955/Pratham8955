@@ -11,6 +11,19 @@ I primarily work with <strong>Node.js</strong>, <strong>TypeScript</strong>, <st
 
 ---
 
+# ⚡ About Me
+
+💼 Currently working as a **Full-Stack Software Engineer**
+
+🚀 Building scalable web applications with **Node.js, React, TypeScript, Spring Boot, and .NET**
+
+🌱 Currently learning **System Design, Microservices, Docker, Kubernetes, and AWS**
+
+🤝 Looking to collaborate on **Backend Systems, Full-Stack Applications, and Open Source Projects**
+
+💬 Ask me about **Node.js, Express.js, React, TypeScript, Spring Boot, .NET, MongoDB, REST APIs, SQL, and Software Engineering**
+
+⚡ Fun fact: I enjoy turning complex business requirements into clean, scalable, and maintainable software.
 # 🚀 Tech Stack
 
 ## 💻 Backend Development
@@ -94,22 +107,6 @@ I primarily work with <strong>Node.js</strong>, <strong>TypeScript</strong>, <st
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-# ⚡ About Me
-
-💼 Currently working as a **Full-Stack Software Engineer**
-
-🚀 Building scalable web applications with **Node.js, React, TypeScript, Spring Boot, and .NET**
-
-🌱 Currently learning **System Design, Microservices, Docker, Kubernetes, and AWS**
-
-🤝 Looking to collaborate on **Backend Systems, Full-Stack Applications, and Open Source Projects**
-
-💬 Ask me about **Node.js, Express.js, React, TypeScript, Spring Boot, .NET, MongoDB, REST APIs, SQL, and Software Engineering**
-
-⚡ Fun fact: I enjoy turning complex business requirements into clean, scalable, and maintainable software.
 
 ---
 
