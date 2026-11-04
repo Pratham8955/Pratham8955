@@ -17,8 +17,6 @@ I primarily work with <strong>Node.js</strong>, <strong>TypeScript</strong>, <st
 
 🚀 Building scalable web applications with **Node.js, React, TypeScript, Spring Boot, and .NET**
 
-🌱 Currently learning **System Design, Microservices, Docker, Kubernetes, and AWS**
-
 🤝 Looking to collaborate on **Backend Systems, Full-Stack Applications, and Open Source Projects**
 
 💬 Ask me about **Node.js, Express.js, React, TypeScript, Spring Boot, .NET, MongoDB, REST APIs, SQL, and Software Engineering**
